@@ -1,5 +1,7 @@
 Make sure to have pynput library installed and to give the script the right permissions to ensure everything goes smoothly.
 
+THIS IS FOR EDUCATIONAL PERPOSES ONLY, IF YOU INDEND ON USING THIS FOR THE WRONG PURPOSE I WILL NOT BE RESPONSIBlE FOR YOUR ACTIONS, YOU WILL BE DOING SO AT YOUR OWN RISK.
+
 What this code does:
 Copy hello.py to the Startup Folder: It will copy the current script (hello.py) to the Windows startup folder so that it runs automatically when you log in.
 
@@ -12,4 +14,4 @@ Keep Running: The listener.join() call keeps the script running until the listen
 Enjoy :)
 
 
-THIS IS FOR EDUCATIONAL PERPOSES ONLY, IF YOU INDEND ON USING THIS FOR THE WRONG PURPOSE I WILL NOT BE RESPONSIBlE FOR YOUR ACTIONS, YOU WILL BE DOING SO AT YOUR OWN RISK.
+
